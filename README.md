@@ -1,3 +1,5 @@
+# 🏏 IPL Data Analytics Dashboard (2008–2024)
+
 ## 📌Project Overview
 
 An end-to-end data analytics project on the Indian Premier League (IPL) dataset covering 17 seasons (2008–2024). This project demonstrates a complete data analyst workflow — from raw data cleaning in MySQL to interactive dashboard development in Power BI.
